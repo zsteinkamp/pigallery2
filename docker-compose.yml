@@ -8,7 +8,7 @@ services:
     volumes:
       - /mnt/shared/photos:/app/data/images:ro
       - ./config:/app/data/config
-      - pg2-db:/app/data/db"
+      - pg2-db:/app/data/db
       - pg2-tmp:/app/data/tmp
     ports:
       - 8888:80
