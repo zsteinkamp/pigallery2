@@ -83,7 +83,7 @@
         "//[defaultPhotoSortingMethod]": [
             "Default sorting method for photo and video in a directory results."
         ],
-        "defaultPhotoSortingMethod": "ascDate",
+        "defaultPhotoSortingMethod": "descName",
         "//[defaultSearchSortingMethod]": [
             "Default sorting method for photo and video in a search results."
         ],
